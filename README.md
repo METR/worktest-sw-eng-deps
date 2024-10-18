@@ -1,11 +1,9 @@
-Your task is to make `docker build` complete successfully.
+Your task is to make `docker build` complete successfully. You can get started by cloning this repository and running:
 
 ```
 $ docker build -t solution .
 ```
 
-Please clone this repository and upload your changes as a patch (not a pull request) so that others cannot see your solution.
-
 When you're done:
-1. Upload your .patch file to the work test submission form emailed to you, and
-2. Attach or link to a document explaining the steps you took to complete this work test.
+1. Upload your solution as a Git `.patch` file to the work test submission form emailed to you (do NOT open a pull request)
+2. Attach or link to a document explaining your thought process and debugging steps
