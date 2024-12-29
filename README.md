@@ -1,4 +1,4 @@
-Your task is to make `docker build` complete successfully. You can get started by cloning this repository and running:
+Your task is to make `docker build` complete successfully without changing the version of LLM Foundry or the base Docker image. You can get started by cloning this repository and running:
 
 ```
 $ docker build -t solution .
